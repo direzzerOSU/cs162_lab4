@@ -16,6 +16,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 #include<string>
+using std::string;
 #include<limits>
 
 // works cited
